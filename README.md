@@ -9,8 +9,7 @@ User-friendly: Simple and intuitive conversational flow.
 # Getting Started 🚀
 1. Clone the repository: git clone https://github.com/reema_abdelrazeq/Mental-Chatbot-using-BERT.git
 2. Install Dependencies :pip install -r requirements.txt
-3. Run the model :python chatbot.py
-
+3. 
 # Dataset 📊
 The dataset used for training the model consists of labeled user inputs categorized into different intents. The dataset can be found on Kaggle:
 https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data
